@@ -1,7 +1,10 @@
-build/
-**/build/
-.vscode/
-**/.vscode/
-*.bin
-*.elf
-*.map
+History/
+Project Logs*/
+Project Outputs*/
+__Previews/
+*.SchDocPreview
+*.PcbDocPreview
+*.Ddb
+*.LOG
+*.rep
+*.html

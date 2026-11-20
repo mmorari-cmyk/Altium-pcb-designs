@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Maiin.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Maiin.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=1_SCH_Autolog.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=1_SCH_Autolog.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Maiin.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=2_SCH_Autolog.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=2_SCH_Autolog.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Maiin.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=3_SCH_Autolog.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=3_SCH_Autolog.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
