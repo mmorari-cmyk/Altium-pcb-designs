@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "C6 (Simulador ECU)",
+      "path": "C6"
+    },
+    {
+      "name": "S3 (Datalogger Dual-Core)",
+      "path": "S3"
+    }
+  ],
+  "settings": {}
+}
