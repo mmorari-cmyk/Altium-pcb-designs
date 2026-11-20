@@ -8,3 +8,10 @@ __Previews/
 *.LOG
 *.rep
 *.html
+
+# Backups manuales y archivos comprimidos de entregas
+*BACKUP*
+*Backup*
+*.zip
+*.rar
+*.7z
